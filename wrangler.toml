@@ -1,0 +1,7 @@
+name = "checkly-parallel-fail"
+main = "src/index.ts"
+compatibility_date = "2024-02-02"
+
+kv_namespaces = [
+  { binding = "parallelScheduling", id = "34eec900eb9e48119b30be78b6802205" }
+]
